@@ -199,7 +199,7 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.6.1
-Werkzeug==2.3.6
+Werkzeug==2.2.3
 wikipedia==1.4.0
 wolframalpha==5.0.0
 wrapt==1.14.1
