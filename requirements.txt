@@ -169,7 +169,7 @@ SQLAlchemy==2.0.17
 stack-data==0.6.2
 streamlit==1.23.1
 summarizer==0.0.7
-sympy==1.12
+sympy==1.10.1
 tenacity==8.2.2
 tensorboard==2.12.3
 tensorboard-data-server==0.7.1
